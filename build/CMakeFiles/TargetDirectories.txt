@@ -1,3 +1,4 @@
 /workspaces/COMP2811/build/CMakeFiles/rebuild_cache.dir
 /workspaces/COMP2811/build/CMakeFiles/edit_cache.dir
+/workspaces/COMP2811/build/CMakeFiles/shapedemo.dir
 /workspaces/COMP2811/build/CMakeFiles/testrect.dir

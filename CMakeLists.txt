@@ -7,3 +7,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Declares executable testrect will be built from source files testrect.cpp, rect.cpp and rect.hpp
 add_executable(testrect testrect.cpp rect.cpp rect.hpp)
+
+add_executable(shapedemo
+    shapedemo.cpp circle.cpp rect.cpp circle.hpp rect.hpp shape.hpp)
