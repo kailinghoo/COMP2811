@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/COMP2811/rect.cpp
+stdexcept
+-
+rect.hpp
+/workspaces/COMP2811/rect.hpp
+
+/workspaces/COMP2811/rect.hpp
+stdexcept
+-
+shape.hpp
+/workspaces/COMP2811/shape.hpp
+
+/workspaces/COMP2811/shape.hpp
+
